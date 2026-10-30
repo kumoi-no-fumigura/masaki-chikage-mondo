@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/masaki-chikage-mondo",
  "yomi": "まさきちかげうたもんどう",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書（問答）",
+  "era": "寛政5年（1793）11月",
+  "author": "長瀬真幸・加藤千蔭（1735〜1808）",
+  "desc": "肥後の長瀬真幸が歌の学び方について問い、加藤千蔭が答えた書。古い時代のものを手本に学ぶ大切さを、書道にたとえて説く。"
+ },
  "editions": [
   {
    "pid": "993380",
